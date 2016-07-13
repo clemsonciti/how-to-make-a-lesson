@@ -3,7 +3,7 @@
 This repository describes how to create
 a new lesson website in `github.com/clemsonciti`.
 The template for lessons is defined in the repository
-[github.com/clemsonciti/lesson-template](github.com/clemsonciti/lesson-template).
+[https://github.com/clemsonciti/lesson-template](https://github.com/clemsonciti/lesson-template).
 
 We strongly recommend using Mac OS X or Linux for development
 (a virtual machine or docker container will serve fine).
